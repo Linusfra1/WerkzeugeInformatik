@@ -1,6 +1,5 @@
 public class Main {
-
-//hello
+//no conflict
     public static void main(String[] args) {
         Factory factory = new Factory();
 
