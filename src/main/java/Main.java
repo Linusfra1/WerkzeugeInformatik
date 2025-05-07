@@ -1,5 +1,5 @@
 public class Main {
-//branch main
+//no conflict
     public static void main(String[] args) {
         Factory factory = new Factory();
 
