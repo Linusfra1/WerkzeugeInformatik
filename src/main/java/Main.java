@@ -1,5 +1,5 @@
 public class Main {
-//bye
+//branch merge-conflict
     public static void main(String[] args) {
         Factory factory = new Factory();
 
